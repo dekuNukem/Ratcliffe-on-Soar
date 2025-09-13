@@ -1,0 +1,15 @@
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+remote_theme: pages-themes/primer@v0.6.0
+title: Ratcliffe-on-Soar
+description: A Few Photos.
+permissions:
+  id-token: write
+  pages: write
+  contents: read
