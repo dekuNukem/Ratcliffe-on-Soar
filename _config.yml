@@ -8,7 +8,7 @@ include:
   - README.md
 remote_theme: pages-themes/primer@v0.6.0
 title: Ratcliffe-on-Soar
-description: A Few Photos.
+description: Photos of a power station.
 permissions:
   id-token: write
   pages: write
