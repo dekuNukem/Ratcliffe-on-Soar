@@ -31,7 +31,7 @@ def get_resized_dimensions(file_path, max_size=500):
     return (new_width, new_height)
 
 def make_lazy_load_image_link(img_path):
-    display_width, display_height = get_resized_dimensions(img_path, max_size=600)
+    display_width, display_height = get_resized_dimensions(img_path, max_size=650)
     output = f'\n<a href="{img_path}" target="_blank">'
     output += f"\n\t<img src=\"{img_path}\" alt=\"alt_text\" loading=\"lazy\" width=\"{display_width}\" height=\"{display_height}\">"
     output += f"\n</a>\n"
@@ -75,15 +75,15 @@ Exploring themes of legacy and change at a turning point in the industrial lands
 
 -----
 
-* **Ratcliﬀe-on-Soar** was the UK's last-remaining **coal-fired** power station.
+* **Ratcliﬀe-on-Soar** was UK's last-remaining **coal-fired** power station.
 
-* After 56 years of energy production, it was decommissioned in 2024.
+* After 56 years of energy production, it was decommissioned in 2024, to be followed by [demolition and redevelopement](https://www.nottinghampost.com/news/local-news/exact-timeline-redevelopment-ratcliffe-power-10559108).
 
 * Its shutdown marks the end of 142 years of coal-powered electricity generation in the United Kingdom.
 
 Email: `allen@500GX.com`
 
-All rights reserved. I don't use social media. Beware of impersonators.
+All rights reserved.
 
 ------
 
@@ -99,9 +99,11 @@ whole_text += """
 
 ----------
 
-Project in progress.
+Project in progress. 
 
 Email: `allen@500GX.com`
+
+I don't use social media. Beware of impersonators.
 
 ----------
 
