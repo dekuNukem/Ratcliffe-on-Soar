@@ -2,7 +2,7 @@
 
 # Ratcliffe-on-Soar
 
-A photography project documenting the UK’s last-remaining coal-fired power station and its surrounding areas.
+A photography project about the UK’s last-remaining coal-fired power station and its surrounding areas.
 
 Exploring themes of legacy and change at a turning point in the industrial landscape.
 
@@ -15,6 +15,15 @@ Exploring themes of legacy and change at a turning point in the industrial lands
 * Its shutdown marks the end of 142 years of coal-powered electricity generation in the United Kingdom.
 
 ----------
+
+All rights reserved.
+
+Email: `allen@500GX.com`
+
+I don't use social media. Beware of impersonators.
+
+------
+
 
 
 <a href="./resources/photos/1.jpeg" target="_blank">
@@ -114,8 +123,6 @@ Exploring themes of legacy and change at a turning point in the industrial lands
 
 
 ----------
-
-All rights reserved.
 
 Email: `allen@500GX.com`
 
