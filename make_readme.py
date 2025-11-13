@@ -81,9 +81,7 @@ Exploring themes of legacy and change at a turning point in the industrial lands
 
 * Its shutdown marks the end of 142 years of coal-powered electricity generation in the United Kingdom.
 
-Email: `allen@500GX.com`
-
-All rights reserved.
+Email: `allen@500gx.com`
 
 ------
 
@@ -99,9 +97,9 @@ whole_text += """
 
 ----------
 
-Project in progress. 
+Project in progress. All rights reserved.
 
-Email: `allen@500GX.com`
+Email: `allen@500gx.com`
 
 I don't use social media. Beware of impersonators.
 
