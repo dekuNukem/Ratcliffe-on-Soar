@@ -2,23 +2,11 @@
 
 # Ratcliffe-on-Soar
 
-A photography project about UK’s **last-remaining coal-fired power station** and its surrounding areas.
-
-Exploring themes of legacy and change at a turning point in the industrial landscape.
-
------
-
 * **Ratcliﬀe-on-Soar** was UK's last-remaining **coal-fired** power station.
 
 * After 56 years of energy production, it was decommissioned in 2024, to be followed by [demolition and redevelopement](https://www.nottinghampost.com/news/local-news/exact-timeline-redevelopment-ratcliffe-power-10559108).
 
 * Its shutdown marks the end of 142 years of coal-powered electricity generation in the United Kingdom.
-
------
-
-Email: `allen@500gx.com`
-
------
 
 
 
@@ -120,11 +108,9 @@ Email: `allen@500gx.com`
 
 ----------
 
-Project in progress. All rights reserved.
+All rights reserved.
 
 Email: `allen@500gx.com`
-
-I don't use social media. Beware of impersonators.
 
 ----------
 
